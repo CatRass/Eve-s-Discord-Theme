@@ -49,6 +49,14 @@
 color: black;
 }
 
+.repliedTextPreview-1bvxun{
+  color: #7B524E;
+}
+
+.username-h_Y3Us{
+  color: #d4cbc6;
+}
+
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
