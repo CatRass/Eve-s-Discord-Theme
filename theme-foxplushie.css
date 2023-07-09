@@ -31,14 +31,14 @@
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  /* --text-normal: black;
+  --text-normal: black;
   --text-muted: hsl( calc(var(--dplus-foreground-color-hue-base) + 4), calc(var(--dplus-foreground-color-saturation-factor) * 4%), calc(var(--dplus-foreground-color-lightness-amount) * 65.3%) );
   --text-link: hsl( var(--dplus-foreground-color-hue-links), calc(var(--dplus-foreground-color-saturation-factor) * 100%), calc(var(--dplus-foreground-color-lightness-amount) * 47.8%) );
   --text-link-low-saturation: hsl( var(--dplus-foreground-color-hue-links), calc(var(--dplus-foreground-color-saturation-factor) * 100%), calc(var(--dplus-foreground-color-lightness-amount) * 52.9%) );
   --text-positive: hsl( 139, calc(var(--dplus-foreground-color-saturation-factor) * 51.6%), calc(var(--dplus-foreground-color-lightness-amount) * 52.2%) );
   --text-warning: hsl( 38, calc(var(--dplus-foreground-color-saturation-factor) * 95.7%), calc(var(--dplus-foreground-color-lightness-amount) * 54.1%) );
   --text-danger: hsl( 359, calc(var(--dplus-foreground-color-saturation-factor) * 82%), calc(var(--dplus-foreground-color-lightness-amount) * 73.9%) );
-  --text-brand: hsl( var(--dplus-accent-color-hue), calc(var(--dplus-foreground-color-saturation-factor) * 86.1%), calc(var(--dplus-foreground-color-lightness-amount) * 77.5%) ); */
+  --text-brand: hsl( var(--dplus-accent-color-hue), calc(var(--dplus-foreground-color-saturation-factor) * 86.1%), calc(var(--dplus-foreground-color-lightness-amount) * 77.5%) );
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 320;
@@ -50,6 +50,7 @@
 
 .channelTextArea-1FufC0{
   --dplus-bgc-chatmsg: hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-100)), calc(var(--dplus-background-color-alpha) * var(--dplus-bg-chat-alpha-modifier, 110%)));
+  --text-normal: white;
 }
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
