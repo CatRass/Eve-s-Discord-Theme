@@ -45,7 +45,7 @@
   --dplus-bgc-chatmsg: hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-100)), calc(var(--dplus-background-color-alpha) * var(--dplus-bg-chat-alpha-modifier, 110%)));
 }
 
-span{
+div.message{
   color: black;
 }
 
