@@ -36,7 +36,7 @@
 --dplus-background-color-saturation-amount: 1;
 --dplus-background-color-lightness-amount: 1;
 --dplus-background-color-alpha: 0.8;
---dplus-bgc-chatmsg:  hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-100)), 0);
+--dplus-bgc-chatmsg:  hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-100)), 0.5);
 
 }
 
