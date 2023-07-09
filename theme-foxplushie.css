@@ -91,8 +91,8 @@ color: black;
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
   --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 20%;
-  --dplus-radius-server: 20%;
+  /* --dplus-radius-avatar: 20%;
+  --dplus-radius-server: 20%; */
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
