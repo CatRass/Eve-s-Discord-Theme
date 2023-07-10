@@ -45,7 +45,10 @@
 --text-normal: white;
 }
 
-.message-2CShn3 .divider-IqmEqJ{
+.message-2CShn3{
+  width: 43%;
+}
+.divider-IqmEqJ{
   width: 43%;
 }
 
