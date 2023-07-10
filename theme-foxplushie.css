@@ -72,6 +72,10 @@ color: black;
   color: #7B524E;
 }
 
+.menu-2TXYjN{
+  background-color: hsla(var(--dplus-background-color-hue), calc(var(--dplus-background-color-saturation-factor) * 50%), calc(var(--dplus-background-color-lightness-amount) * var(--dplus-background-color-lightness-100)), 1.0);
+}
+
 /* .username-h_Y3Us{
   color: #7d7d7d;
 } */
